@@ -6,3 +6,6 @@
                 The prediction is based on historical data and statistical patterns, allowing users to make informed decisions about their insurance coverage and plan for their financial future.
                 Whether individuals are seeking health, life, or other types of insurance, this app serves as a valuable resource for obtaining transparent and reliable premium projections.
                 By empowering users to assess different scenarios and adjust their inputs, the Insurance Premium Prediction app promotes financial literacy and helps individuals select insurance plans that best suit their needs and budget.
+
+# To run this app
+##https://insurancepy-er951hn1olh.streamlit.app/
