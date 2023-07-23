@@ -8,4 +8,4 @@
                 By empowering users to assess different scenarios and adjust their inputs, the Insurance Premium Prediction app promotes financial literacy and helps individuals select insurance plans that best suit their needs and budget.
 
 # To run this app
-##https://insurancepy-er951hn1olh.streamlit.app/
+## https://insurancepy-er951hn1olh.streamlit.app/
